@@ -1,0 +1,14 @@
+{
+    "foo": "baz",
+    "baz": [
+        {
+            "name": "Another Name 1"
+        },
+        {
+            "name": "Another Name 2"
+        },
+        {
+            "name": "Another Name 3"
+        }
+    ]
+}
