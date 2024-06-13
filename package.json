@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mustache-preview": "^0.1.0"
+    "mustache-preview": "^0.2.0"
   },
   "name": "mustache-preview-demo",
   "version": "1.0.0",
